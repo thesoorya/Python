@@ -8,6 +8,7 @@ print(car_1.model)
 print(car_1.name)
 print(car_1.year)
 print(car_1.color)
+print(car_1.wheels)
 
 print(car_2.model)
 print(car_2.name)
